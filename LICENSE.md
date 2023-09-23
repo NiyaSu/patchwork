@@ -1,5 +1,6 @@
 # BSD Open Source
 
+Copyright (c) 2023, SHALU KUMARI
 Copyright (c) 2014, Jessica Lord
 All rights reserved.
 
